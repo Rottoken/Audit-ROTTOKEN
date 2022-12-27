@@ -1,3 +1,3 @@
 # Audit-ROTTOKEN
-Audit by BlockSAFU
-https://blocksafu.com/project-detail/0x77B350fDC02fea60286BF604d3243D59881f757d
+Audit by https://coinsult.net/
+https://github.com/Coinsult/solidity/blob/main/Coinsult_Rottoken_0x9a...c6ed_Audit.pdf
